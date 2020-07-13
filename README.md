@@ -1,6 +1,4 @@
 # HTML, CSS, and Javascript for Web Developers on Coursera by Yaakov Chaikin (JHU)
-<hr>
-<br>
 
 * Understood and implemented the concept of Responsive Design and Single Page Application.<br>
 * Worked with HTML, CSS, JavaScript, AJAX, JQuery.
