@@ -2,8 +2,6 @@
 
 * Understood and implemented the concept of Responsive Design and Single Page Application.<br>
 * Worked with HTML, CSS, JavaScript, AJAX, JQuery.
-<br>
-<hr>
 
 ### Certificate <hr>
 ![Certificate](Certificate.jpg)
