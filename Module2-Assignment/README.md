@@ -9,5 +9,7 @@ b) Layout: In the tablet view, the first 2 sections are in the first row and are
 The 3rd section is on the second row and take up the entire row by itself.<br>
 c) Layout: In the mobile view, each section takes up the entire row.<br>
 4. Section title region: Each section has a section title region that is always positioned at the top right corner of the section no matter the view.<br>
+<hr>
 
-Link: https://bazingaav.github.io/HTML-CSS-JS-Practice/Module2-Assignment/
+Link: 
+[Click Here](https://bazingaav.github.io/HTML-CSS-JS-Practice/Module2-Assignment/)
